@@ -1,0 +1,11 @@
+Flightcrew
+Copyright (c) 2026 CrabLion LLC
+
+Flightcrew's workflow is inspired by GitHub Spec Kit
+(https://github.com/github/spec-kit), which is licensed under the MIT License,
+Copyright (c) GitHub, Inc.
+
+This repository was written independently and does not currently include
+source files from Spec Kit. If any Spec Kit files are copied into this
+repository in the future, they must keep their original copyright and MIT
+license notice, and this NOTICE file should list them.
