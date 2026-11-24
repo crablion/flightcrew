@@ -1,4 +1,4 @@
-# Flightcrew
+<img width="2172" height="724" alt="flightcrew-logo" src="https://github.com/user-attachments/assets/cf6bcdf3-0607-4260-9492-d9e3db705b6b" />
 
 **Your AI crew, cleared for takeoff.**
 
